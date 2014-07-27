@@ -1,6 +1,9 @@
 var myJSONAppMain = function()
 {	
 	
+	var callBack = function(user){
+				
+			 };
 
 	$.ajax({
 		  url: "getMyTables",
